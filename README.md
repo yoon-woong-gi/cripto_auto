@@ -1,2 +1,1 @@
-# auto_trade
-# auto_trade
+# cripto_auto
